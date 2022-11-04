@@ -1,6 +1,5 @@
 tool
 extends ParallaxBackground
-class_name PreviewingParallaxBackground
 
 onready var _editor_viewport: Viewport = _find_editor_viewport(get_tree().root) if Engine.editor_hint else null
 var _previous_viewport_transform: Transform2D

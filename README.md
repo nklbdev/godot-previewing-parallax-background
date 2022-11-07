@@ -9,7 +9,7 @@ It helps to arrange objects in different layers relative to each other.
 
 ## Installation
 
-Simply download it from Godot Asset Library.
+Simply download it from [Godot Asset Library](https://godotengine.org/asset-library/asset/1535).
 
 Alternatively, download or clone this repository and copy the contents of the
 `addons` folder to your own project's `addons` folder.

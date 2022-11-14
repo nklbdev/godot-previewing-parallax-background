@@ -3,9 +3,9 @@
 This is a plugon for [Godot Engine](https://godotengine.org) that provides new class `PreviewingParallaxBackground` that moves it's layers in editor.
 It helps to arrange objects in different layers relative to each other.
 
-![image](https://user-images.githubusercontent.com/7024016/199620295-c262ec32-b0e0-4714-838a-1962dfb03978.png)
+[![image](https://user-images.githubusercontent.com/7024016/201603951-a009f59a-df75-4472-917b-51a5594f6261.png)](https://user-images.githubusercontent.com/7024016/201603699-816ea4b6-00eb-4eb0-9a5a-3b164c49ff84.png)
 
-[Screencast 1](https://youtu.be/tyV430TscKY), [screencast 2](https://youtu.be/2URnLwGletk) on YoutTube
+[Screencast on YouTube](https://youtu.be/S8sazP-D0QU)
 
 ## Installation
 
